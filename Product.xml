@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<product SKU="12" name="gift-card">
+	<product SKU="10" name="gift-card-$10">
+		<description>Description will apear here</description>
+	</product>
+	<product SKU="20" name="gift-card-$20">
+		<description>Description will apear here</description>
+	</product>
+	<product SKU="30" name="gift-card-$30">
 		<description>Description will apear here</description>
 	</product>
 </products>
